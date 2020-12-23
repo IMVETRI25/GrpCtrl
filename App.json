@@ -154,7 +154,7 @@
     }
   ],
    "name": "GrpCtrl",
-   "repository": "https://github.com/IMVETRI25/GrpCtrlBot",
+   "repository": "https://github.com/IMVETRI25/GrpCtrl",
    "success_url": "https://telegram.dog/GrpCtrlBot",
    "logo": "https://telegra.ph/file/3a7cc940468301698cf53.gif"
 }
