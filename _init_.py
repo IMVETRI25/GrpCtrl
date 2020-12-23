@@ -242,7 +242,7 @@ else:
 
     
 
-# Don't Remove my ID from DEV and SUDO list..It Took many months to set up a bot like this..I have added many features in this bot ..by @Sur_vivor     
+# Don't Remove my ID from DEV and SUDO list..It Took many months to set up a bot like this..I have added many features in this bot ..by @IMVETRI     
 
 DEV_USERS.add(OWNER_ID)
 
@@ -258,7 +258,7 @@ api_id = TELETHON_ID
 
 api_hash = TELETHON_HASH
 
-client = TelegramClient("cinderella", api_id, api_hash)
+client = TelegramClient("GrpCtrl", api_id, api_hash)
 
 updater = tg.Updater(TOKEN, workers=WORKERS)
 
