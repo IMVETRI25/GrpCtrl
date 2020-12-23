@@ -31,7 +31,7 @@ _Hey!_ *{}*
 _IM_ *{}*\n_A Product Your Group 🌐 Safe With Me!
 
 If You Want Add This Bot 🤖 To Your Group,_
-_ Contact My Creator 👨‍💻 : _ [{}](tg://user?id={})
+_ Contact My Devoloper 👨‍💻 : _ [{}](tg://user?id={})
 """
 
 
