@@ -10,13 +10,13 @@ from telegram.ext import Filters, MessageHandler, CommandHandler, run_async
 
 from telegram.utils.helpers import mention_html
 
-from cinderella import dispatcher
+from GrpCtrl import dispatcher
 
-from cinderella.modules.helper_funcs.chat_status import is_user_admin, user_admin, can_restrict, can_delete
+from GrpCtrl.modules.helper_funcs.chat_status import is_user_admin, user_admin, can_restrict, can_delete
 
-from cinderella.modules.log_channel import loggable
+from GrpCtrl.modules.log_channel import loggable
 
-from cinderella.modules.sql import antiflood_sql as sql
+from GrpCtrl.modules.sql import antiflood_sql as sql
 
 FLOOD_GROUP = 3
 
